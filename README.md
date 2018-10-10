@@ -1,8 +1,11 @@
-# burgertruck_ui
+# Flutter UI - Burger Truck 
 
-A new Flutter project.
+A simple screen design of a burger truck profile using flutter
 
-## Getting Started
+Design credit - https://dribbble.com/shots/5358373-Profile-Screen-of-Food-Truck-App
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+How do I code this - https://youtu.be/DRFncCdGf0U
+
+# Screenshots
+
+![scshot](https://user-images.githubusercontent.com/8137504/46753779-5ecb7c00-ccde-11e8-82ad-83be473fefd4.png)
